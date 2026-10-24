@@ -1,8 +1,6 @@
 # OttenSeiwald-TimeTracking
 Time Tracking Program in Python for Programming (FHTW 2026/27)
 
-User Stories
-
 What is your project about?
 project-oriented time-tracking application for small teams and companies. 
 Users enter their personal ID, choose a project ID and then either start or stop a timer or put in their working-hours manually for a specific activity. 
