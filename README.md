@@ -1,6 +1,12 @@
 # OttenSeiwald-TimeTracking
 Time Tracking Program in Python for Programming (FHTW 2026/27)
 
+to start enter in terminal
+
+source .venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+
 User Stories
 
 What is your project about?
