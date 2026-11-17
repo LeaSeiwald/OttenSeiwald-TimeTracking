@@ -3,10 +3,6 @@ Time Tracking Program in Python for Programming (FHTW 2026/27)
 
 to start enter in terminal
 
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
-
 User Stories
 
 What is your project about?
@@ -32,4 +28,5 @@ Optional features
 •	Project budgets: a defined budget per project, with a warning when e.g. 80 % is used
 •	Billable vs. non-billable time: e.g. internal meetings that are tracked but not invoiced
 •	Export: invoices as PDF, time entries as Excel
+
 
